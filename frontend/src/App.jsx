@@ -6,7 +6,8 @@ import Recuperar_Password from './pages/recuperar_password/Recuperar_Password';
 import Panel_Lateral from './components/Panel_Lateral/Panel_Lateral';
 import Sidebar from './components/Sidebar/Sidebar';
 import Navbar from './components/Navbar/Navbar';
-import Tabla from './pages/estado_de_red/Tabla'
+import Tabla from './pages/estado_de_red/Tabla';
+import TablaUsuario from './pages/gestion_de_usuarios/TablaUsuario';
 
 
 
